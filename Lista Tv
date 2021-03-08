@@ -1,0 +1,227 @@
+# EXTM3U
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Globo
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_c2fc681c84a6a1d2c610f37abdfe5d9120aae0de/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMzM4OTc7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, SBT
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sbtsp_2a5ac580_09154a8c6314a8bfaa70804407b37a315418e377/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMzIyOTU7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Record
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Gazeta
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w104250261.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Rede TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Viva 
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/viva_5d00f2c6_ae5a1b48d00e7e867207f830297167b9f08d5cba/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMzI0MzU7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Globo News
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globonews_dc685e2c_29f2f42b44005274f7f7431dbc794ec07ae35413/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc1NzU7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Band News
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w2109552389.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Record News
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/recordnews_620807a1_b3563e3b559155518e9f2c3ea49c9f77ed510a9a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc2MjA7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, MTV
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/mtvbrasilhd_5dca4777_5dadc4aebf3875f709815d389d9647e7d6f0898f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjY2NTQ7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, MultiShow
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/multishow_5f573b82_4ab5316ba23581e2b89d9fcddb3f70fdbeaea78e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMzQzMTA7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, GNT
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/gnt_c439c60b_454f80a812b4ee3d7d4690e016d519925588841a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjkyMzM7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, History
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/history_b7eb6c68_8fbe91548918c514e8daf4c0622261162b8a25a2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMzM2NjY7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, History 2
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/h2_2bfba6b3_2b5ccd288f5c5da808e0facbfaad56d840ab8e7a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjY4MDE7fQ%3D%3D
+
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, NatGeo
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/nationalgeographic_2e01e174_0b8a1ac088974d05e4ffd26f4e94765139dd792e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjY4MzU7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Discovery Channel
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverychannel_af3e1334_1fbe447416d256177c8d644fa335e4038e6527c2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjgwMjA7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Discovery World
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryworld_68b79337_def6e93784bb7594b605e36efe91ef1f25bb176b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMzM3MDg7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Discovery Science
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryscience_77c8184f_81c2be0216d74c313fd0b5924955e6b5fd2bb941/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMzM3NzE7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Animal Planet
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_905f737c0f3c678ec7370073c619e6195a32225e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjg5OTI7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, HBO
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbo_63266754_0bf00cf64de86ba9bc7156b8a6e85a1e601cc0b3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjg4MjY7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, TNT Séries
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tntseries_3bb18d9a_5615083b810f9722d599a0616e0fda4b31013972/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjY0NzY7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, AMC
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/amcbrasil_b7f5113f_b785fff71cfbd41010d973e25bf488fa06d9d65f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjY1MTU7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Space
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/space_e6c3dd63_24f2c6f62f8a10de6014f02885b97d0ab244bdaa/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjg3Mjk7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Tv Tupi
+https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Tv O Povo https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1540276776.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Rede Brasil
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/redebrasil_c2548064_6038f0aa863585ed8e2cb11c3a2f297f2800e237/720p_1820kbit/chunklist.m3u8
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, TV Carioca
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Tv Max
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, TV Mega Cine
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w896632116.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Cine Livre
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Tv Liberdade
+https://5c483b9d1019c.streamlock.net/8238/8238/chunklist_w1132095932.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Tv Vídeo News
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w1526133503.m3u8
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, BMTV
+https://srv5.zcast.com.br/bmtv/bmtv/chunklist_w163054517.m3u8
+
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Sport TV
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/sportv_91dfde1d_c363cbce79dadc1d158b63e1511fa9bdd3f55a81/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjg0NTI7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Sport TV 2 
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv2_22ab0e43_b1f96be6edabd8bc33853d0cefe14221bd72d7b0/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjg1NDE7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Sport TV 3
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv2_22ab0e43_b1f96be6edabd8bc33853d0cefe14221bd72d7b0/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjg1NDE7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, ESPN Brasil
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnbrasil_2a459380_0c4c20777060a1851ebed525b3f5cd890e3cba3e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjY4OTE7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, ESPN 2
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espn2_6c1e671f_ddbebf4f63d1cd074ef607efacc70aed4ac8dabb/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjcwODc7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Canal Off
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/canaloff_12f0de3d_29fb8d213433d465d9ee1af9a7cacb3650d28688/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjcxMjE7fQ%3D%3D
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Fox Sport
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_c531fe6010c664cc8dfd4e07648bff151fd81c45/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjczOTA7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Fox Sport 2
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports2_fc8d9e6e_dc90b9e4ce7e4619319f7f8ba95292cbf55e248b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc0NjM7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Band Sport
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/bandsports_f53eac2e_6ac819c2cb9a32d07f01aeb250d40b39a1877d3c/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc1MTg7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, BBB
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bbb21_c1dfd96e_8939857f51cc14ba06c2f6259aca7c3e669627d6/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjYzMjM7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, NatGeo Kids
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/natgeokids_8746b7e5_c0d9691c859ce58312df5c8b5ac1677e0a3a0a8a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc3MDg7fQ%3D%3D
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Discovery Kids
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverykids_80e28a51_1413850b12ccd5cac3ab85eaac49339f14a74a60/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc3NTY7fQ%3D%3D
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Fish TV
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/fishtv_e77a7633_4b7d858182a3a5fed0dbd48306053e91bf7c6df8/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc4Nzc7fQ%3D%3D
+
+
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Disney Channel (?)
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/history_b7eb6c68_8fbe91548918c514e8daf4c0622261162b8a25a2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5LjExMy43Ni4zNSI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUyMjc5MzQ7fQ%3D%3D
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Retro TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?fix
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, RT Documentary Channel 
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Tv Diário 
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfbTs2DCjs-ZIHZww-B7Ibw)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, ISTV
+https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1458594112.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Tv Séries
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, Kuriakos Cine 
+http://c2.manasat.com:1935/kcine/kcine2/chunklist_w1583501045.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF: -1 tvg-name = "" tvg-logo = “”, TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+
